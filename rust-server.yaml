@@ -9,7 +9,7 @@ spec:
     - resources:
         limits:
           cpu: 0.5
-      image: gcr.io/rusty-162617/rust-server
+      image: gcr.io/charming-autumn-389619/rust-server
       name: rust-server
       env:
         - name: PASSWORD
