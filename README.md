@@ -2,8 +2,6 @@
 deploy rust game server on google cloud plateform
 
 
-Howdy Y'all! I'm @kordless on YouTube and I occasionally play and stream Rust, the game.
-
 This repo is for deploying a Rust Server running on Google Container Engine. Google has a deal going where you can get $300 of free credits for a year on Google Cloud, so it's a good excuse to signup and run your own server. And no, I don't work for Google!
 
 This deployment uses an image built by @dids, which is hosted on Docker Hub: https://hub.docker.com/r/didstopia/rust-server/
